@@ -40,4 +40,4 @@
         cv2.destroyAllWindows()
 ## Ouptut Image
 
-<img src="Capture.png">
+<img src="Capture.PNG">
