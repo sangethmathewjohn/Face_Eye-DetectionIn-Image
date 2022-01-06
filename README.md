@@ -38,3 +38,6 @@
     elif k == ord('s'):  # wait for 's' key to save and exit
         cv2.imwrite('messigray.png', img)
         cv2.destroyAllWindows()
+## Ouptut Image
+
+<img src="capture.png">
