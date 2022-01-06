@@ -1,5 +1,9 @@
 # Face_Eye-DetectionIn-Image
 
+## PreRequisites
+
+    pip install opencv-python
+
 ## Sample Image
 
 <img src="face.jpg">
