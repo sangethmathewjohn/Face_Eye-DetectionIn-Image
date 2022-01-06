@@ -41,3 +41,4 @@
 ## Ouptut Image
 
 <img src="Capture.PNG">
+<img src="Capute1.PNG">
